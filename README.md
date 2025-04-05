@@ -1,2 +1,2 @@
-# Adaptive-Weight-Physics-Informed-Neural-Network
+# AW-PINN
  PINN optimization algorithm based on gradient normalization
